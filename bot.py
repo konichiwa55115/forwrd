@@ -1,7 +1,7 @@
 import telegram
 
 # Replace YOUR_TOKEN with your Telegram bot token
-bot = telegram.Bot(token='YOUR_TOKEN')
+bot = telegram.Bot(token="5714654934:AAEVIR8baWhJcgUOtWeNmrSjvdRfYRiY7tI")
 
 # Replace YOUR_CHAT_ID with your Telegram chat ID
 chat_id = 6234365091
